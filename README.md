@@ -18,7 +18,7 @@ In your repository where you want to track releases:
 ```
 mkdir -p .github/workflows
 cd .github/workflows
-git submodule add macos-release-tracker https://github.com/ungive/github-macos-release-tracker.git
+git submodule add https://github.com/ungive/github-macos-release-tracker.git macos-release-tracker
 cp macos-release-tracker/workflow.example.yml macos-release-tracker.yml
 ```
 
