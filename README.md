@@ -1,5 +1,9 @@
 # macos-release-tracker
 
+> [!WARNING]
+> Wikipedia doesn't contain the build number anymore, which breaks this.
+> https://en.wikipedia.org/wiki/MacOS_version_history
+
 Automatically creates an issue when a new macOS version is available.
 
 ![](./assets/issue-entry.png)
